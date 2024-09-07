@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="lD77HJx3!3el+;^3:59K" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="[=`=Z-9~hsJ?N_1]M=u4"><value name="text"><shadow type="text" id="s|@yxcm!N,bHQ@la{3tG"><field name="TEXT">mahim</field></shadow></value></block></statement></block></xml>
